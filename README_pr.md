@@ -1,18 +1,18 @@
 # PrintOut
   
-Module to print to Console  
+Módulo para imprimir no Console  
 
-## How to install this module
+## Como instalar este módulo
   
-__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
+__Baixe__ e __instale__ o conteúdo na pasta 'modules' no caminho do Rocketbot  
 
 
 
 ## Overview
 
 
-1. Print to console  
-Print information on the console  
+1. Imprimir no console  
+Imprimir informações no console  
 
 
 

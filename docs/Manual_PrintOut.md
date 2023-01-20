@@ -1,3 +1,22 @@
-## PrintOut
+# PrintOut
+  
+Module to print to Console  
+  
+![banner](imgs/Banner_PrintOut.jpg)
+## How to install this module
+  
+__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
 
- view the documentation at: https://github.com/rocketbot-cl/PrintOut/blob/master/example/Manual_PrintOut.pdf
+
+
+## Description of the commands
+
+### Print to console
+  
+Print information on the console
+|Parameters|Description|example|
+| --- | --- | --- |
+|Texto para imprimir||Texto|
+|Decorador||*|
+|Color||-----Select Color-----|
+
